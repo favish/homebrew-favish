@@ -7,6 +7,7 @@ class Argo < Formula
   homepage "https://github.com/favish/argo"
   url "https://github.com/favish/argo/releases/download/v0.2/argo"
   sha256 "58ce9ed180d8952c58bba216dfdb220dee79a3efa698e4206a78eaf535f5359a"
+  version "v0.2"
 
   # depends_on "cmake" => :build
 

@@ -5,9 +5,9 @@
 class Argo < Formula
   desc "Automation tool to help simplify k8s local, dev, prod workflow via minikube and gcloud."
   homepage "https://github.com/favish/argo"
-  url "https://github.com/favish/argo/releases/download/v0.2/argo"
-  sha256 "58ce9ed180d8952c58bba216dfdb220dee79a3efa698e4206a78eaf535f5359a"
-  version "v0.2"
+  url "https://github.com/favish/argo/releases/download/v0.3/argo"
+  sha256 "48dfd2bfe88db3dde20c531ab79d673fc5137836bb92cad0d7465e8f3b9105f6"
+  version "v0.3"
 
   # depends_on "cmake" => :build
 
